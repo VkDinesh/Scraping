@@ -11,3 +11,4 @@ You can perform web scraping in various ways, including use of Google Docs to al
 
 **Urllib2**: It is a Python module which can be used for fetching URLs. It defines functions and classes to help with URL actions (basic and digest authentication, redirections, cookies, etc).
 
+###### code:I used jupiter notebook for archiving the webscraping [link to view the code ]()
